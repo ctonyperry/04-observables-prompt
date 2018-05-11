@@ -1,0 +1,19 @@
+div{
+width:70px;
+height:100px;
+text-align:center;
+background-image: url("/assets/images/turret.png");
+background-size: 100px;
+background-position: -20px -25px;
+background-repeat:none;
+display:inline-block;
+position:relative;
+}
+span{
+    color:green;
+    position: absolute;
+    top:40px;
+    left:19px;
+    font-size:36px;
+    text-shadow: 2px 2px #000;
+}
